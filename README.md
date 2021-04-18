@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 ### Interest  <br>
-<li> True FullStack  </li>
+<li> Really FullStack Developer </li>
 
 
