@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
 
-### Interest  <br>
-<li> Authentic FullStack Developer </li>
-<li> Machine learning </li>
+<br>
+<strong> 나아가다 </strong>
+
 
 
